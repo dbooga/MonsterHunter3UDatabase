@@ -1,7 +1,6 @@
 MonsterHunter3UDatabase
 =======================
 DEVELOPMENT FOR 4U CAN BE FOUND HERE: https://github.com/kamegami13/MonsterHunter4UDatabase
-=======================
 
 Source code for the Android app Monster Hunter 3U Database. We use ADT Eclipse as our envirnoment.
 
